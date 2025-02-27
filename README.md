@@ -8,11 +8,7 @@ Build portfolio with pure Html, CSS, JavaScript
 
 ## Screenshots
 
-![Screenshot_7](https://github.com/Callmerev95/personal-portfolio-1/assets/154798324/e52407ee-cab8-4f12-abb3-69f935db9ea3)
-
-## Live Demo
-
-[Portfolio](https://callmerev95.github.io/personal-portfolio-1/)
+![Screenshot_7](/Screenshoot.png)
 
 
 
