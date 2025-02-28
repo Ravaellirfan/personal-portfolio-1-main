@@ -23,10 +23,10 @@ Build portfolio with pure Html, CSS, JavaScript
 
 | Warna             | Kode                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Background Color (--bg-color) | ![#1f242d] #1f242d |
-|Second background Color  (--second-bg-color) | ![#323946] #323946 |
-| Text Color  (--text-color) | ![#ffffffe2] #ffffffe2 |
-| Main Color  (--main-color) | ![#00fbff] #00fbff |
+| Background Color (--bg-color) | #1f242d |
+|Second background Color  (--second-bg-color) | #323946 |
+| Text Color  (--text-color) | #ffffffe2 |
+| Main Color  (--main-color) | #00fbff |
 
 ## Memulai
 ### Prasyarat
