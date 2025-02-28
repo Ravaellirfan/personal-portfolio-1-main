@@ -12,45 +12,41 @@ Build portfolio with pure Html, CSS, JavaScript
 
 
 
-## Features
+## Fitur
 
-- Clean code
-- Interactive animation
-- Full Responsive
-- Modern design
+- Kode Bersih
+- Animasi interaktif
+- Responsif penuh
+- Desain modern
 
-## Color Reference
+## Referensi Warna
 
-| Color             | Hex                                                                |
+| Warna             | Kode                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Background Color (--bg-color) | ![#1f242d](https://via.placeholder.com/10/1f242d?text=+) #1f242d |
-|Second background Color  (--second-bg-color) | ![#323946](https://via.placeholder.com/10/323946?text=+) #323946 |
-| Text Color  (--text-color) | ![#ffffffe2](https://via.placeholder.com/10/ffffffe2?text=+) #ffffffe2 |
-| Main Color  (--main-color) | ![#00fbff](https://via.placeholder.com/10/00fbff?text=+) #00fbff |
+| Background Color (--bg-color) | ![#1f242d] #1f242d |
+|Second background Color  (--second-bg-color) | ![#323946] #323946 |
+| Text Color  (--text-color) | ![#ffffffe2] #ffffffe2 |
+| Main Color  (--main-color) | ![#00fbff] #00fbff |
 
+## Memulai
+### Prasyarat
+- Memiliki [Git](https://git-scm.com/) yang terinstal di perangkat
+- Memahami dasar penggunaan command line di perangkat
+- Memiliki pemahaman dasar tentang HTML, CSS, dan JavaScript
 
+## Cara Menggunakan
 
-## Getting Started
+- Fork repositori dan kloning secara lokal
+- Buka direktori proyek di file explorer dan cari `index.html` lalu buka di browser untuk menjalankan secara lokal
 
-### Prerequisites
-- have [Git](https://git-scm.com/) installed on your machine
-- basic familiarity with your machine's command line
-- basic understanding of HTML, CSS, and JavaScript
+## Instruksi Template
 
-## How to use
+- Buka proyek di file explorer, lalu navigasikan ke folder `assets/images` Di sana, Anda dapat mengganti gambar dengan gambar milik Anda sendiri.
 
-- fork the repository and clone locally
-- open the directory project in your file explorer and search `index.html` then open it with your browser for running localy in your browser.
+## Dukungan
+Jika Anda memiliki saran untuk meningkatkan template ini, panduan ReadMe, atau lainnya,
+jangan ragu untuk menghubungi saya—saya selalu terbuka terhadap masukan yang membangun!
 
-## Template instructions
-
-- open the project in your file explorer, and navigate to `assets/images` there, you can replaced with your own images.
-
-## Support
-
-If you have any suggestions for how to improve this template, the ReadMe guide, etc.
-please don't hesitate to reach out -- I will always happily accept constructive feedback!
-
-If you enjoyed this template and want to support my ability to make more of these, feel free to
-support me on
+Jika Anda menikmati template ini dan ingin mendukung saya dalam membuat lebih banyak lagi,
+jangan ragu untuk memberikan dukungan.
 
