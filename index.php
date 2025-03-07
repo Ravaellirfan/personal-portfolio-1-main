@@ -11,6 +11,7 @@
       href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <!-- ==========================================
                   Custom CSS
     =========================================== -->
@@ -44,7 +45,7 @@
     =========================================== -->
     <section class="home" id="home">
       <div class="home-content">
-        <h3>Hello, It's Me</h3>
+        <h3>Hallo, It's Me</h3>
         <h1>Ravaell Irfan Siburian</h1>
         <h3>And I'm a <span class="multiple-text"></span></h3>
         <div class="social-media">
@@ -86,41 +87,43 @@
                   Services Section
     =========================================== -->
     <section class="services" id="services">
-      <h2 class="heading">Our <span>Services</span></h2>
+      <h2 class="heading">Keter<span>ampilan</span></h2>
 
       <div class="services-container">
         <div class="services-box">
           <i class="bx bx-code-alt"></i>
-          <h3>Front End</h3>
+          <h3>UI or Front End</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque amet
-            atque voluptate saepe magni aspernatur id nemo quasi quibusdam
-            ratione.
+          Sebagai seorang yang tertarik pada UI dan frontend development, saya fokus pada perancangan antarmuka yang intuitif, modern, dan responsif.
+          Dengan keahlian dalam HTML, CSS, dan berbagai tools desain seperti Figma dan CorelDRAW, saya mengubah konsep visual menjadi pengalaman interaktif yang menarik.
+          Saya selalu mengutamakan user experience (UX) dengan memastikan desain tidak hanya estetis tetapi juga fungsional.
+          Tujuan saya adalah menciptakan tampilan yang clean, minimalis, dan mudah digunakan, baik untuk web maupun aplikasi mobile.
           </p>
-          <a href="#" class="btn">Read More</a>
+          <a href="#" class="btn">swipe Up</a>
         </div>
 
         <div class="services-box">
           <i class="bx bxs-paint"></i>
           <h3>Graphic Design</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia
-            fugiat quaerat vero magnam? Sunt exercitationem atque distinctio
-            deleniti culpa minus.
+          Desain grafis bagi saya adalah kombinasi antara kreativitas dan teknologi untuk menciptakan komunikasi visual yang menarik dan fungsional.
+          Dengan pengalaman dalam UI, branding, dan media digital, saya mengutamakan keseimbangan antara estetika dan pengalaman pengguna. 
+          Menggunakan tools seperti Figma, Canva, dan CorelDRAW, saya merancang desain yang tidak hanya menarik secara visual tetapi juga efektif dalam menyampaikan pesan.
+          Fokus utama saya adalah menciptakan desain yang modern, intuitif, dan memiliki dampak yang kuat dalam berbagai platform digital maupun cetak.
           </p>
-          <a href="#" class="btn">Read More</a>
+          <a href="#" class="btn">swipe Up</a>
         </div>
 
         <div class="services-box">
           <i class="bx bx-data"></i>
-          <h3>Back End</h3>
+          <h3>Organization</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque amet
-            atque voluptate saepe magni aspernatur id nemo quasi quibusdam
-            ratione.
+          Saya aktif dalam berbagai kegiatan organisasi yang mendukung pengembangan keterampilan di bidang teknologi dan desain.
+          Dengan latar belakang sebagai mahasiswa Pendidikan Teknologi Informasi, saya terbiasa bekerja dalam tim, mengelola proyek, serta berkontribusi dalam kepanitiaan dan komunitas.
+          Pengalaman ini membantu saya dalam membangun komunikasi yang baik, kepemimpinan, serta manajemen waktu yang efektif. Saya percaya bahwa keterlibatan dalam organisasi meningkatkan kemampuan kolaborasi dan problem-solving yang esensial dalam dunia profesional.
           </p>
 
-          <a href="#" class="btn">Read More</a>
+          <a href="#" class="btn">Swipe Up</a>
         </div>
       </div>
     </section>
@@ -176,25 +179,24 @@
         </div>
 
         <div class="portfolio-box">
-          <img src="assets/image/img6.png" alt="portfolio" />
+          <img src="assets/image/img15.png" alt="portfolio" />
           <div class="portfolio-layer">
-            <h4>Web Design</h4>
+            <h4>PTI-Unila</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus,
-              cum!
+              Saya adalah Mahasiswa Pendidikan Teknologi Informasi Universitas Lampung.
+              Angkatan 2022, Mahasiswa Semester 6, dengan Konsentrasi Rekayasa Perangkat Lunak.
             </p>
-            <a href="#"><i class="bx bx-link-external"></i></a>
           </div>
         </div>
 
         <div class="portfolio-box">
-          <img src="assets/image/img6.png" alt="portfolio" />
+          <img src="assets/image/img21.png" alt="portfolio" />
           <div class="portfolio-layer">
-            <h4>Web Design</h4>
+            <h4>Kopma Unila</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, ut!
+              Saya Aktif di Unit Kegiatan Mahasiswa Koperasi Konsumen Mahasiswa Universitas Lampung.
+              saya menjadi Demisioner Ketua Gugus Fakultas Keguruan dan Ilmu Pendidikan Periode 2023 - 2024.
             </p>
-            <a href="#"><i class="bx bx-link-external"></i></a>
           </div>
         </div>
       </div>
@@ -255,4 +257,3 @@
     <script src="main.js"></script>
   </body>
 </html>
-
